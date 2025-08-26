@@ -1,2 +1,2 @@
 # developer-page
-this is web developer page of using html and css
+This is web developer page of using html and css
